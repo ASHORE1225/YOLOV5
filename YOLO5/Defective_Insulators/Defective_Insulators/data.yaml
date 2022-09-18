@@ -1,0 +1,5 @@
+train: ../Defective_Insulators/train/images
+val: ../Defective_Insulators/valid/images
+
+nc: 1
+names: ['defect']
